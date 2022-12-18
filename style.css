@@ -1,0 +1,14 @@
+body{
+    margin:auto;
+    text-align: center;
+}
+.rs-image{
+    height: 50px;
+    width: 50px;
+}
+.list{
+    display: inline-block;  
+}
+.skills{
+    font-style: italic;
+}
